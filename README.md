@@ -22,7 +22,7 @@ Roma Caballes, a passionate coder with a knack for database management. I love d
 
 ## Connect with Me
 
-- **Facebook:** [Facebook Profile](facebook.com/oma025)
+- **Facebook:** [facebook.com/oma025](https://facebook.com/oma025)
 - **Email:** [romacaballes00@gmail.com](mailto:romacaballes00@gmail.com)
 
 Let's connect and explore the world of coding and databases together!

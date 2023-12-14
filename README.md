@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Roma Caballes. 👋
 
-<!--
-**romacaballes00/romacaballes00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Roma Caballes, a passionate coder with a knack for database management. I love diving into complex problems and deriving elegant solutions. My tech journey began with the BS Information Technology program, and I've been exploring and expanding my skills ever since.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+- **BS Information Technology**
+  - New Era University
+  - 2023-Present
+
+## Certification
+
+- **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
+- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
+- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+- **SQL and Relational Databases 101**
+
+## Skills
+
+- **Programming:** Java, JavaScript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## Connect with Me
+
+- **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
+- **Email:** [romacaballes00@gmail.com](mailto:romacaballes00@gmail.com)
+
+Let's connect and explore the world of coding and databases together!

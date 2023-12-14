@@ -15,7 +15,7 @@ Roma Caballes, a passionate coder with a knack for database management. I love d
 - **Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**
 - **Oracle Cloud Data Management 2023 Certified Foundations Associate**
 - **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
-- **SQL and Relational Databases 101**
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c6dde12378554665bf299d22af07dc64)**
 
 ## Skills
 
@@ -24,6 +24,7 @@ Roma Caballes, a passionate coder with a knack for database management. I love d
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Connect with Me
+https://github.com/romacaballes00
 
 - **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
 - **Email:** [romacaballes00@gmail.com](mailto:romacaballes00@gmail.com)
